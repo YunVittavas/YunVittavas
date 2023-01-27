@@ -1,4 +1,4 @@
-### :man_technologist: <mark>About Me</mark> :
+### :man_technologist: <b>About Me</b> :
 
 A junior biomedical engineering undergraduate at Mahidol university, Thailand
 <br>My coding skills:
