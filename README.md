@@ -3,7 +3,6 @@
 A junior biomedical engineering undergraduate at Mahidol university, Thailand
 <br>
 <br><b>My coding skills</b>:
-<br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <!--MySQL-->
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=whit"/> <!--GitKraken-->
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <!--Jupyter-->
