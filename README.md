@@ -3,7 +3,7 @@
 A junior biomedical engineering undergraduate at Mahidol university, Thailand   <img src="https://github.com/linssen/country-flag-icons/blob/master/images/svg/tha.svg" width="15" height="10"/>
 <br><br>
 <font size="20"><b>My coding skills:</b></font>
-<br>• Languages<br>
+<br>• Languages and Libraries<br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/> <!--C-->
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30"/>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="30"/> <!--Numpy-->
