@@ -33,5 +33,5 @@ A junior biomedical engineering undergraduate at Mahidol university, Thailand   
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" height="20"/> <!--RasPi-->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20"/> <!--Git-->
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="20"/> <!--Powershell-->
-<br><br> <b>More Information:</b>
+<br><br> <b>More Information:</b> <br>
 <a href="https://www.linkedin.com/in/vittavas-tan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/> <!--LinkedIn-->
