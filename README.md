@@ -4,7 +4,7 @@ A junior biomedical engineering undergraduate at Mahidol university, Thailand   
 <br> Enrolled in Brain-Computer Interface (BCI) laboratory 🧠🖥
 <br><br> <b>Field of Interests and Experiences:</b>
 <br>• Bio-Signals Processing 
-<br>• Basic Machine Learning
+<br>• Machine Learning
 <br><br>
 <font size="20"><b>My Coding Skills:</b></font>
 <br>• Languages and Libraries<br>
