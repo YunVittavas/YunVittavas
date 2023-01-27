@@ -8,7 +8,7 @@ A junior biomedical engineering undergraduate at Mahidol university, Thailand   
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20"/>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="20"/> <!--Numpy-->
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=whit" height="20"/> <!--Pandas-->
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20"/> <!--scikit-->
+<img src="https://img.shields.io/badge/scikit_learn-FFC0CB?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20"/> <!--scikit-->
 <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" height="20"/> <!--Scipy-->
 <img src="https://img.shields.io/badge/Matplotlib-A020F0.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="20"/> <!--Matplotlib-->
 <br>• Operation Systems <br>
