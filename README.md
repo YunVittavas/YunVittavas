@@ -1,6 +1,6 @@
 ### :man_technologist: <b>About Me</b> :
 
-A junior biomedical engineering undergraduate at Mahidol university, Thailand <img src="https://github.com/linssen/country-flag-icons/blob/master/images/svg/tha.svg"/>
+A junior biomedical engineering undergraduate at Mahidol university, Thailand <img src="https://github.com/linssen/country-flag-icons/blob/master/images/svg/tha.svg" width="20" height="20"/>
 <br><br>
 <b>My coding skills</b>:
 <br><br>
