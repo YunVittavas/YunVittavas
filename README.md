@@ -2,7 +2,7 @@
 
 A junior biomedical engineering undergraduate at Mahidol university, Thailand   <img src="https://github.com/linssen/country-flag-icons/blob/master/images/svg/tha.svg" width="15" height="10"/>
 <br><br>
-<b><font size="+5">My coding skills</font></b>:
+<b><font size="20">My coding skills</font></b>:
 <br><br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <!--MySQL-->
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=whit"/> <!--GitKraken-->
