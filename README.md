@@ -1,7 +1,7 @@
 ### :man_technologist: <b>About Me</b> :
 
 A junior biomedical engineering undergraduate at Mahidol university, Thailand
-<br>My coding skills:
+<br><b>My coding skills</b>:
 <br>
 <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <!--MySQL-->
