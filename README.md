@@ -12,9 +12,12 @@ A junior biomedical engineering undergraduate at Mahidol university, Thailand   
 <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" height="20"/> <!--Scipy-->
 <img src="https://img.shields.io/badge/Matplotlib-A020F0.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="20"/> <!--Matplotlib-->
 <img src="https://img.shields.io/badge/MATLAB-FFA500.svg?style=for-the-badge&logo=MATLAB&logoColor=white" height="20"/> <!--Matplotlib-->
-<br>• Operation Systems <br>
+<br>• OS, Terminal and Virtualization <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blac" height="20"/> <!--LINUX-->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20"/> <!--Windows-->
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20"/> <!--Git-->
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="20"/> <!--Powershell-->
+<img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" height="20"/> <!--VirtualBox-->
 <br>• Framework and IDE<br>
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="20"/> <!--Conda-->
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" height="20"/> <!--GitKraken-->
@@ -27,8 +30,4 @@ A junior biomedical engineering undergraduate at Mahidol university, Thailand   
 <br>• Prototyping Platforms<br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="20"/> <!--Arduino-->
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" height="20"/> <!--RasPi-->
-<br>• Terminal<br>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20"/> <!--Git-->
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="20"/> <!--Powershell-->
-<br>• Virtualization<br>
-<img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" height="20"/> <!--VirtualBox-->
+
