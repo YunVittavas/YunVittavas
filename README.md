@@ -1,6 +1,6 @@
 ### :man_technologist: <b>About Me</b> :
 
-A junior biomedical engineering undergraduate at Mahidol university, Thailand <i class="flag flag-thailand"></i>
+A junior biomedical engineering undergraduate at Mahidol university, Thailand <img src="https://www.flaticon.com/free-icon/thailand_197452"/>
 <br><br>
 <b>My coding skills</b>:
 <br><br>
