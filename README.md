@@ -11,6 +11,7 @@ A junior biomedical engineering undergraduate at Mahidol university, Thailand   
 <img src="https://img.shields.io/badge/scikit_learn-FFC0CB?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20"/> <!--scikit-->
 <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" height="20"/> <!--Scipy-->
 <img src="https://img.shields.io/badge/Matplotlib-A020F0.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="20"/> <!--Matplotlib-->
+<img src="https://img.shields.io/badge/MATLAB-FFA500.svg?style=for-the-badge&logo=MATLAB&logoColor=white" height="20"/> <!--Matplotlib-->
 <br>• Operation Systems <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blac" height="20"/> <!--LINUX-->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20"/> <!--Windows-->
