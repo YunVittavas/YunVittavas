@@ -2,8 +2,9 @@
 
 A junior biomedical engineering undergraduate at Mahidol university, Thailand   <img src="https://github.com/linssen/country-flag-icons/blob/master/images/svg/tha.svg" width="15" height="10"/>
 <br> Enrolled in Brain-Computer Interface (BCI) laboratory 🧠🖥
-<br><br> Field of interests and experiences
-Bio-Signals Processing <br>Basic Machine Learning
+<br><br> <b>Field of interests and experiences:<b>
+<br>• Bio-Signals Processing 
+<br>• Basic Machine Learning
 <br><br>
 <font size="20"><b>My coding skills:</b></font>
 <br>• Languages and Libraries<br>
