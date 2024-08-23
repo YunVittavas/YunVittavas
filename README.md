@@ -1,6 +1,6 @@
 ### :man_technologist: <b>About Me</b> :
 
-A junior biomedical engineering undergraduate at Mahidol university, Thailand   <img src="https://github.com/linssen/country-flag-icons/blob/master/images/svg/tha.svg" width="15" height="10"/>
+A recent biomedical engineering undergraduate at Mahidol university, Thailand   <img src="https://github.com/linssen/country-flag-icons/blob/master/images/svg/tha.svg" width="15" height="10"/>
 <br> Enrolled in Brain-Computer Interface (BCI) laboratory 🧠🖥
 <br><br> <b>Field of Interests and Experiences:</b>
 <br>• Bio-Signals Processing 
