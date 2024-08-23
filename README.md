@@ -5,6 +5,7 @@ A recent biomedical engineering undergraduate at Mahidol university, Thailand   
 <br><br> <b>Field of Interests and Experiences:</b>
 <br>• Bio-Signals Processing 
 <br>• Machine Learning
+<br>• Data Science
 <br><br>
 <font size="20"><b>My Coding Skills:</b></font>
 <br>• Languages and Libraries<br>
